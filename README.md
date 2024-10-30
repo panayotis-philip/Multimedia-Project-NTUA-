@@ -7,3 +7,5 @@ Developed an enhanced version of the classic Hangman game in Java, integrating a
 
 
 <img width="426" alt="Screenshot 2024-10-29 at 7 34 56 PM" src="https://github.com/user-attachments/assets/87d95904-8975-4d7f-b608-8e47af7832b9">
+
+<img width="337" alt="Screenshot 2024-10-29 at 7 35 03 PM" src="https://github.com/user-attachments/assets/36c47f51-db93-4f3d-8dfe-8045ba3cf495">
